@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/docsend2pdf/static/css/main.af615c0b.chunk.css",
+    "main.js": "/docsend2pdf/static/js/main.0cfd8916.chunk.js",
+    "main.js.map": "/docsend2pdf/static/js/main.0cfd8916.chunk.js.map",
+    "runtime-main.js": "/docsend2pdf/static/js/runtime-main.f5415d50.js",
+    "runtime-main.js.map": "/docsend2pdf/static/js/runtime-main.f5415d50.js.map",
+    "static/css/2.52f2db83.chunk.css": "/docsend2pdf/static/css/2.52f2db83.chunk.css",
+    "static/js/2.e332bcb5.chunk.js": "/docsend2pdf/static/js/2.e332bcb5.chunk.js",
+    "static/js/2.e332bcb5.chunk.js.map": "/docsend2pdf/static/js/2.e332bcb5.chunk.js.map",
+    "index.html": "/docsend2pdf/index.html",
+    "precache-manifest.2eb590b760a90e818b6b819ee1baf5a9.js": "/docsend2pdf/precache-manifest.2eb590b760a90e818b6b819ee1baf5a9.js",
+    "service-worker.js": "/docsend2pdf/service-worker.js",
+    "static/css/2.52f2db83.chunk.css.map": "/docsend2pdf/static/css/2.52f2db83.chunk.css.map",
+    "static/css/main.af615c0b.chunk.css.map": "/docsend2pdf/static/css/main.af615c0b.chunk.css.map",
+    "static/js/2.e332bcb5.chunk.js.LICENSE.txt": "/docsend2pdf/static/js/2.e332bcb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5415d50.js",
+    "static/css/2.52f2db83.chunk.css",
+    "static/js/2.e332bcb5.chunk.js",
+    "static/css/main.af615c0b.chunk.css",
+    "static/js/main.0cfd8916.chunk.js"
+  ]
+}
